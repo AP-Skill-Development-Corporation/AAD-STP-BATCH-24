@@ -1,5 +1,6 @@
 <resources>
     <string name="app_name">InputDesign</string>
+<<<<<<< HEAD
     <string-array name="branch">
         <item> ECE </item>
         <item> EEE </item>
@@ -79,3 +80,6 @@
         bkbvkl
     </string>
 </resources>
+=======
+</resources>
+>>>>>>> 1d506458726f19bda54af046821fc84e7d123014

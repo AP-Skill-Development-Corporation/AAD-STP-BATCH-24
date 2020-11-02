@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 include ':app'
 rootProject.name = "InputDesign"
+=======
+rootProject.name='InputDesign'
+include ':app'
+>>>>>>> 1d506458726f19bda54af046821fc84e7d123014
