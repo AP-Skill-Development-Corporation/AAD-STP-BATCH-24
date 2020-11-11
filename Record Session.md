@@ -13,6 +13,10 @@
 
 [Day 13](https://transcripts.gotomeeting.com/#/s/98252918269ec0408130869c5c294c2aaf4c845509ee8744b989600ccb8467e4)
 
+[Day 14](https://transcripts.gotomeeting.com/#/s/8e8f0d7af20251eb14f70edb6a1b4c6e8532ee97b2a4577ec5496ae7aac231e6)
+
+
+
 
 
 
